@@ -1,7 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logoColor=white)
+![GROMACS](https://img.shields.io/badge/GROMACS-MD_Simulation-blue?style=flat)
+![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-green?style=flat)
+![Drug Discovery](https://img.shields.io/badge/Drug_Discovery-crimson?style=flat)
+![AlphaFold2](https://img.shields.io/badge/AlphaFold2-Structural_Prediction-9cf?style=flat)
+![QSAR](https://img.shields.io/badge/QSAR-Modeling-orange?style=flat)
+
+
 # Geet Madhukar, PhD
 
-Computational Structural Biologist | Integrative Modeling | 
-MD Simulations | AI-Driven Drug Discovery
+Computational Structural Biologist | Integrative Modeling | MD Simulations | AI-Driven Drug Discovery
 
 Currently: Postdoctoral Research Associate
 University of New Hampshire
