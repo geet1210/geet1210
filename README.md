@@ -7,6 +7,9 @@
 ![QSAR](https://img.shields.io/badge/QSAR-Modeling-orange?style=flat)
 
 
+![Geet's GitHub stats](https://github-readme-stats.vercel.app/api?username=geet1210&show_icons=true&theme=default)
+
+
 # Geet Madhukar, PhD
 
 Computational Structural Biologist | Integrative Modeling | MD Simulations | AI-Driven Drug Discovery
