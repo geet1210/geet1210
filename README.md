@@ -1,16 +1,29 @@
-## Hi there 👋
+# Geet Madhukar, PhD
 
-<!--
-**geet1210/geet1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational Structural Biologist | Integrative Modeling | 
+MD Simulations | AI-Driven Drug Discovery
 
-Here are some ideas to get you started:
+Currently: Postdoctoral Research Associate
+University of New Hampshire
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Integrative structural modeling of multidomain protein 
+  complexes (AlphaFold2 → XL-MS → IMP/MODELLER → MD)
+- Conformational dynamics and allostery (PCA, DCCM, CNA)
+- ML-based QSAR modeling for drug discovery
+- Structure-based virtual screening
+
+## Tools & Technologies
+GROMACS | NAMD | IMP | MODELLER | AlphaFold2 | PyMOL |
+XlinkX | GOLD | GLIDE | AutoDock | Python | RDKit | 
+Scikit-learn | XGBoost | NetworkX
+
+## Publications
+9 peer-reviewed papers | 3 manuscripts in preparation
+
+Google Scholar: [Geet Madhukar](https://scholar.google.com/citations?user=Rw9-74EAAAAJ&hl=en)
+
+## Open to Opportunities
+Seeking postdoctoral or research scientist positions in 
+computational structural biology or drug discovery
+📩 geetmadhukar@gmail.com
