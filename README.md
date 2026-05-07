@@ -5,6 +5,8 @@
 ![Drug Discovery](https://img.shields.io/badge/Drug_Discovery-crimson?style=flat)
 ![AlphaFold2](https://img.shields.io/badge/AlphaFold2-Structural_Prediction-9cf?style=flat)
 ![QSAR](https://img.shields.io/badge/QSAR-Modeling-orange?style=flat)
+![NetworkX](https://img.shields.io/badge/NetworkX-Network_Analysis-orange?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Viz-blue?style=flat)
 
 
 # Geet Madhukar, PhD
